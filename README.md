@@ -1,2 +1,3 @@
 # 2048
-Sample game project!
+2048 game
+
